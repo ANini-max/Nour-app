@@ -8,5 +8,16 @@
   "short_name": "Nour",
   "start_url": "/",
   "theme_color": "#c9a84c",
-  "id": "com.nour.islamicapp"
+  "id": "com.nour.islamicapp",  "icons": [
+    {
+      "src": "favicon_io.zip/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon_io.zip/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
