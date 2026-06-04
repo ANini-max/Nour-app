@@ -833,6 +833,10 @@ renderDuas();
 // Auto-locate
 window.addEventListener('load', ()=>{ setTimeout(getLocation, 500); });
 </script>
-</body>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js');
+  }
+</script>
 </html>
 
