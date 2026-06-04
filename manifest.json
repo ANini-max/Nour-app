@@ -1,0 +1,12 @@
+{
+  "background_color": "#0d1117",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nour-Application Islamique",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Nour",
+  "start_url": "/",
+  "theme_color": "#c9a84c",
+  "id": "com.nour.islamicapp"
+}
